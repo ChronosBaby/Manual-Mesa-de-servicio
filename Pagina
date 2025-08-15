@@ -63,8 +63,8 @@
     </ol>
 
     <h2>Formulario</h2>
-    <!-- Reemplaza la URL del src con el enlace de "incrustar" de tu formulario de Google -->
-    <iframe src="https://docs.google.com/forms/d/e/TU_ID_DEL_FORMULARIO/viewform?embedded=true">
+    <!-- https://forms.gle/aat2AQQwEVD6pjXeA -->
+    <iframe src="https://forms.gle/aat2AQQwEVD6pjXeA">
         Cargando…
     </iframe>
 </main>
