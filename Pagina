@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guía Paso a Paso</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #0078d7;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        main {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border-radius: 8px;
+        }
+        h2 {
+            color: #0078d7;
+        }
+        ol {
+            margin-left: 20px;
+        }
+        iframe {
+            width: 100%;
+            height: 600px;
+            border: none;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            font-size: 14px;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Instrucciones para completar la tarea</h1>
+</header>
+
+<main>
+    <h2>Paso a paso</h2>
+    <ol>
+        <li>Lee atentamente todas las instrucciones.</li>
+        <li>Prepara los materiales necesarios.</li>
+        <li>Sigue cada paso en el orden indicado.</li>
+        <li>Guarda tus avances.</li>
+        <li>Completa el formulario al final.</li>
+    </ol>
+
+    <h2>Formulario</h2>
+    <!-- Reemplaza la URL del src con el enlace de "incrustar" de tu formulario de Google -->
+    <iframe src="https://docs.google.com/forms/d/e/TU_ID_DEL_FORMULARIO/viewform?embedded=true">
+        Cargando…
+    </iframe>
+</main>
+
+<footer>
+    &copy; 2025 - Tu nombre o marca
+</footer>
+
+</body>
+</html>
